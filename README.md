@@ -1,0 +1,2 @@
+Named Entity Recognition (NER) Project
+Developed a robust Named Entity Recognition (NER) system in Python, leveraging state-of-the-art transformers and PyTorch for powerful sequence understanding. The project incorporates PyMuPDF and python-docx for seamless text extraction from diverse document types, and features a user-friendly interface built with Gradio. This solution provides accurate entity extraction, invaluable for information retrieval, data categorization, and advanced NLP applications.
